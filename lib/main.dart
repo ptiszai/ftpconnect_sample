@@ -127,7 +127,7 @@ Future<bool> Unzip(String fullfilename_src, String fullfilename_dest) async {
       // If it's a file and not a directory
       if (file.isFile) {
         final outputStream =
-            OutputFileStream('${p.current}/test/download/${file.name}');
+            OutputFileStream('${p.current}/test/unzip/${file.name}');
         file.writeContent(outputStream);
         outputStream.close();
       }
