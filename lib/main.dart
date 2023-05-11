@@ -4,12 +4,13 @@ import 'package:path/path.dart' as p;
 import 'package:ftpconnect/src/commands/file.dart';
 import 'package:archive/archive_io.dart';
 
+
 String remoteDir = './public_html/ftptestfiles'; // my server directory
 
 final FTPConnect _ftpConnect = new FTPConnect(
-  "cpanel.ptiszai.com",
-  user: "ptiszai",
-  pass: "nWdVDSxufP6F",
+  "xxxx.com",
+  user: "yyyyyy",
+  pass: "pppppppp",
   securityType: SecurityType.FTP,
   showLog: false,
 );
