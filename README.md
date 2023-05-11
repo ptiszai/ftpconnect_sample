@@ -29,4 +29,12 @@ Uploading './test/out/upload-background.jpg' to './public_html/ftptestfiles'
 Ziping '/test/out/upload-background.jpg'and '/test/out/uploadfileToCompress.txt' to '/test/out/uploadfiles.zip'
 Uploading './test/out/uploadfiles.zip' to './public_html/ftptestfiles'
 Listing the remote server direction.
-```<br>
+```
+### App result images:<br>
+<div align="center">
+
+![Running](runnig.png)
+
+</div><br>
+
+
