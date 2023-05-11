@@ -1,4 +1,5 @@
-# Flutter FTP Connect sample only on Windows.
+# Flutter FTP Connect sample only on Windows.<br>
+Set the Transfer mode on socket to binary.<br>
 This sample is based on  [ftp_connect](https://github.com/salim-lachdhaf/dartFTP).<br>
 and  [Zip and Unzip](https://pub.dev/packages/archive)<br>
 
